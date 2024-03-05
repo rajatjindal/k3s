@@ -658,8 +658,6 @@ github.com/jstemmer/go-junit-report v0.9.1/go.mod h1:Brl9GWCQeLvo8nXZwPNNblvFj/X
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
 github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
-github.com/k3s-io/containerd v1.7.7-k3s1.27 h1:obFQjBCahWKETAmAVFdq4Ph8VduSK0Eho9bWjpd6hjs=
-github.com/k3s-io/containerd v1.7.7-k3s1.27/go.mod h1:CrxVnLZTD61NLkOVNd7Cedb7E5huJzcmTVpunlITQJY=
 github.com/k3s-io/cri-dockerd v0.3.4-k3s1 h1:eCeVCeXzf10fyanv1gniSwidBjdO83/akv+M72uEnZc=
 github.com/k3s-io/cri-dockerd v0.3.4-k3s1/go.mod h1:0KDOU8lLjp+ETJFFCcVBRQbJ8puRoDxaHBDj8C87Fk4=
 github.com/k3s-io/cri-tools v1.26.0-rc.0-k3s1 h1:yWVy9pS0T1BWBMZBPRy2Q29gaLmaGknQHSnx+HStrVM=
@@ -1048,6 +1046,8 @@ github.com/prometheus/procfs v0.8.0/go.mod h1:z7EfXMXOkbkqb9IINtpCn86r/to3BnA0ua
 github.com/prometheus/procfs v0.10.1 h1:kYK1Va/YMlutzCGazswoHKo//tZVlFpKYh+PymziUAg=
 github.com/prometheus/procfs v0.10.1/go.mod h1:nwNm2aOCAYw8uTR/9bWRREkZFxAUcWzPHWJq+XBB/FM=
 github.com/prometheus/tsdb v0.7.1/go.mod h1:qhTCs0VvXwvX/y3TZrWD7rabWM+ijKTux40TwIPHuXU=
+github.com/rajatjindal/containerd v0.0.0-20231012195924-17f4313df46a h1:thZymASIGGeTQ9TFX9jACZd7sm2c6Kz7ssJ7asQii6c=
+github.com/rajatjindal/containerd v0.0.0-20231012195924-17f4313df46a/go.mod h1:CrxVnLZTD61NLkOVNd7Cedb7E5huJzcmTVpunlITQJY=
 github.com/rancher/dynamiclistener v0.3.6 h1:iAFWeiFNra6tYlt4k+jINrK3hOxZ8mjW2S/9nA6sxKs=
 github.com/rancher/dynamiclistener v0.3.6/go.mod h1:VqBaJNi+bZmre0+gi+2Jb6jbn7ovHzRueW+M7QhVKsk=
 github.com/rancher/lasso v0.0.0-20230830164424-d684fdeb6f29 h1:+kige/h8/LnzWgPjB5NUIHz/pWiW/lFpqcTUkN5uulY=
